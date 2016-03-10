@@ -10,8 +10,10 @@ This is example of Espresso board with Oled.
 <ul><li>Arduino IDE</li></ul>
 
 <b>Library Dependency:</b><br/>
-<ul><li><a href="https://github.com/squix78/esp8266-oled-ssd1306" target="_blank"><strong>ESP8266 Oled Driver for SSD1306 display</strong> by Daniel Eichhorn</a></li></ul>
-<li>Can be installed directly using Arduino Library Manager</li></ul>
+<ul>
+<li><a href="https://github.com/squix78/esp8266-oled-ssd1306" target="_blank"><strong>ESP8266 Oled Driver for SSD1306 display</strong> by Daniel Eichhorn</a></li>
+<li>Can be installed directly using Arduino Library Manager</li>
+</ul>
 
 For further inquiry, kindly visit our technical forum.
 
